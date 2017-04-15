@@ -1,0 +1,6 @@
+{
+  "extensions":[ 	"johnpapa.Angular2",
+					"alefragnani.project-manager",
+					"christian-kohler.path-intellisense" 
+				]
+}
